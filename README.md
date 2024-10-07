@@ -1,4 +1,4 @@
-# An end2end demand forecasting method based on transformer
+# An End2End demand forecasting method based on transformer
 
 Traditional sample-based interpretable models cannot handle the chronological order of features, and in most cases only have local interpretability on partial dataset. The attention-based approach is able to take into account both the chronological order of features and the ability to interpret globally when performing interpretable analysis. In addition, this end-to-end model I propose is able to adaptively change model complexity and can greatly improve the model reusability.
 
